@@ -1,3 +1,7 @@
 import DemoModule;
 
-int main() { printHello; }
+int main() {
+    printMessage();
+    tmp::printOther();
+    return 0;
+}

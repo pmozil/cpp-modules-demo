@@ -1,0 +1,21 @@
+# ninja log v5
+3	45	1707760957333466686	CMakeFiles/demo.dir/src/main.cpp.o.ddi	60021a7658a6b578
+4	66	1707760957353466702	CMakeFiles/demo.dir/lib/demo.cppm.o.ddi	5ee4dd4dae7f34fe
+66	69	1707760957357466705	CMakeFiles/demo.dir/CXX.dd	b7d85add53344668
+66	69	1707760957357466705	/home/petro/Downloads/CMake_Modules/buils/CMakeFiles/demo.dir/CXXModules.json	b7d85add53344668
+66	69	1707760957357466705	CMakeFiles/demo.dir/src/main.cpp.o.modmap	b7d85add53344668
+66	69	1707760957357466705	CMakeFiles/demo.dir/lib/demo.cppm.o.modmap	b7d85add53344668
+1	43	1707760970069476758	CMakeFiles/demo.dir/lib/demo.cppm.o.ddi	5ee4dd4dae7f34fe
+43	48	1707760970077476765	CMakeFiles/demo.dir/CXX.dd	b7d85add53344668
+43	48	1707760970077476765	/home/petro/Downloads/CMake_Modules/buils/CMakeFiles/demo.dir/CXXModules.json	b7d85add53344668
+43	48	1707760970077476765	CMakeFiles/demo.dir/src/main.cpp.o.modmap	b7d85add53344668
+43	48	1707760970077476765	CMakeFiles/demo.dir/lib/demo.cppm.o.modmap	b7d85add53344668
+48	610	1707760970633477204	CMakeFiles/demo.dir/lib/demo.cppm.o	19184eb0b9c9197d
+48	610	1707760970633477204	CMakeFiles/demo.dir/DemoModule.pcm	19184eb0b9c9197d
+1	36	1707760988713491505	CMakeFiles/demo.dir/src/main.cpp.o.ddi	60021a7658a6b578
+36	43	1707760988725491515	CMakeFiles/demo.dir/CXX.dd	b7d85add53344668
+36	43	1707760988725491515	/home/petro/Downloads/CMake_Modules/buils/CMakeFiles/demo.dir/CXXModules.json	b7d85add53344668
+36	43	1707760988725491515	CMakeFiles/demo.dir/src/main.cpp.o.modmap	b7d85add53344668
+36	43	1707760988725491515	CMakeFiles/demo.dir/lib/demo.cppm.o.modmap	b7d85add53344668
+43	78	1707760988757491540	CMakeFiles/demo.dir/src/main.cpp.o	1873deed53c03a12
+79	154	1707760988833491600	demo	ea9a670c4e674a63
